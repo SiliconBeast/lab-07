@@ -5,7 +5,6 @@
 - **CCID:** `suvir1`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
-
+Claude Sonnet 5.5, Anthropic, 21/10/2026 for formatting code files and pushing it to the repo
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
